@@ -9,4 +9,11 @@ namespace TestConsoleApp
             Console.WriteLine("Hello World!");
         }
     }
+
+    public class VedioAssRename
+    {
+        public string AssFilePath { get; set; }
+
+        public string VedioName { get; set; }
+    }
 }

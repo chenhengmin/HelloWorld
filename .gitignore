@@ -84,3 +84,4 @@ ModelManifest.xml
 v15/
 .gitignore
 /.vs
+/HelloWorld/.vs/HelloWorld/DesignTimeBuild
