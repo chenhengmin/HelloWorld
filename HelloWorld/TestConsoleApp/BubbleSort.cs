@@ -24,5 +24,11 @@ namespace TestConsoleApp
             }
             return sourceList;
         }
+
+        public static  void Test()
+        {
+            var list = new List<int>() { 5, 4, 3, 2, 1 };
+            var result = BubbleSort.Sort(list);
+        }
     }
 }
